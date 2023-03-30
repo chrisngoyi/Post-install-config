@@ -37,7 +37,7 @@ This Screen shows how the osTicket after being succefully installed, the Admin o
 <img src="https://i.imgur.com/dZ7tcP1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This main menu is where the Admin get access to evrything, from here the Admin can manage Tickets, SLA, Create new Ticket, new Agents, and more.
+This is th main Menu is where the Sys Admin gets access to everything, from here the Sys Admin can manage Tickets, SLA, Create new Ticket, new Agents, and more.
 </p>
 <br />
 
