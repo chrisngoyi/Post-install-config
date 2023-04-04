@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/LcJRJbN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This Screen shows how the osTicket after being succefully installed, the Admin or any ohter authorized Agent can log into thier Account.
+This Screen shows how the osTicket after being succefully installed, the Sys Admin only is able to log into thier Account and start working on Settings which will enable smooth use of the Ticketing System.
 </p>
 <br />
 
