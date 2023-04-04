@@ -35,7 +35,7 @@ This Screen shows how the osTicket after being succefully installed, the Sys Adm
 <img src="https://i.imgur.com/7J4N9Me.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is th main Menu is where the Sys Admin gets access to everything, from here the Sys Admin can manage Tickets, SLA, Create new Ticket, new Agents, and more.
+This second screen is where the Sys Admin is creating brand new roles to be used in the Ticketing System.
 </p>
 <br />
 
