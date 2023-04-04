@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/Afmk709.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LcJRJbN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This Screen shows how the osTicket after being succefully installed, the Admin or any ohter authorized Agent can log into thier Account.
@@ -32,7 +32,7 @@ This Screen shows how the osTicket after being succefully installed, the Admin o
 <br />
 
 <p>
-<img src="https://i.imgur.com/dZ7tcP1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7J4N9Me.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This is th main Menu is where the Sys Admin gets access to everything, from here the Sys Admin can manage Tickets, SLA, Create new Ticket, new Agents, and more.
@@ -40,9 +40,31 @@ This is th main Menu is where the Sys Admin gets access to everything, from here
 <br />
 
 <p>
-<img src="https://i.imgur.com/VyUAMo3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ut4QOpB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This is th main Menu is where the Sys Admin gets access to everything, from here the Sys Admin can manage Tickets, SLA, Create new Ticket, new Agents, and more.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SfBQ8ig.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The third image demonstates how a specific Agent log into their account, but has only access to Tickets that have been assigned to them.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/ICwS7Ze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The third image demonstates how a specific Agent log into their account, but has only access to Tickets that have been assigned to them.
+</p>
+<br />
+<img src="https://i.imgur.com/fV7RzrU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The third image demonstates how a specific Agent log into their account, but has only access to Tickets that have been assigned to them.
+</p>
+<br />
+
