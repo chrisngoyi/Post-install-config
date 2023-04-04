@@ -64,7 +64,7 @@ After implementing and creating both Departments and Teams, now it comes the mom
 <img src="https://i.imgur.com/fV7RzrU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The third image demonstates how a specific Agent log into their account, but has only access to Tickets that have been assigned to .
+Now the Sys Admin is creating different Users, these users might internal or external to the company. They will be using the Ticketing System via Tickts.
 </p>
 <br />
 
