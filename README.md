@@ -43,7 +43,7 @@ This second screen is where the Sys Admin is creating brand new roles to be used
 <img src="https://i.imgur.com/ut4QOpB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is th main Menu is where the Sys Admin gets access to everything, from here the Sys Admin can manage Tickets, SLA, Create new Ticket, new Agents, and more.
+This step consists of the creation and configuration of different Departments or Services of the IT Field within the Company.
 </p>
 <br />
 
