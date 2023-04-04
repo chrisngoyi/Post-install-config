@@ -17,9 +17,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- osTicket Login Screen
-- osTicket Admin Panel with Access to all Tickets
-- osTicket Specific Agent Panel with their Specific Ticket
+- Setting up all the features and tools to enable the smooth use of he Sytem
+- Creating all the necessary Departments and/or Services included in the IT Field
+- Creating all Agents and assigning them to appropiate Departments to assure the operability of the System 
+- Creating internal and extermal Users  that will be interacting in the Ticketing System
 
 <h2>Configuration Steps</h2>
 
