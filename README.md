@@ -58,7 +58,7 @@ The Picture above demonstrates how the Sys Admin has been creating different Tea
 <img src="https://i.imgur.com/ICwS7Ze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The third image demonstates how a specific Agent log into their account, but has only access to Tickets that have been assigned to them.
+After implementing and creating both Departments and Teams, now it comes the moment of creating different Agents and assigning them to the Departments and Teams previously created.
 </p>
 <br />
 <img src="https://i.imgur.com/fV7RzrU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
