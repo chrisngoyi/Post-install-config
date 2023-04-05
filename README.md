@@ -56,13 +56,6 @@ The Picture above demonstrates how the Sys Admin has been creating different Tea
 </p>
 <br />
 
-<p><img src="https://i.imgur.com/vjS3Xwk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-The Picture above demonstrates how the Sys Admin has been creating different Teams in which Agents will be part of.
-</p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/u6Ylzey.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
