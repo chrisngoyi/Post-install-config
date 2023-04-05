@@ -67,6 +67,6 @@ After implementing and creating both Departments and Teams, now it comes the mom
 <img src="https://i.imgur.com/33agmxK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After implementing and creating both Departments and Teams, now it comes the moment of creating different Agents and assigning them to the Departments and Teams previously created.
+Setting up Service Level Agreements SLAs.
 </p>
 <br />
