@@ -65,6 +65,6 @@ After implementing and creating both Departments and Teams, now it comes the mom
 <img src="https://i.imgur.com/RQbXCjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now the Sys Admin is creating different Users, these users might be internal or external to the company. They will be using the Ticketing System via their Tickts.
+Now the Sys Admin is creating different Users, these users might be internal or external to the company. They will be using the Ticketing System via their Tickets.
 </p>
 <br />
