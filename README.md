@@ -71,6 +71,5 @@ Now the Sys Admin is creating different Users, these users might be internal or 
 <img src="https://i.imgur.com/RBdqOl6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now the Sys Admin is creating different Users, these users might be internal or external to the company. They will be using the Ticketing System via their Tickets.
-</p>
+The above image is where The Service Level Agreements SLAs are being created to determine the priorities for tickets, and how long each ticket should be resolved after it has been submitted.
 <br />
