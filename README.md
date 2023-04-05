@@ -55,6 +55,14 @@ This step consists of the creation and configuration of different Departments or
 The Picture above demonstrates how the Sys Admin has been creating different Teams in which Agents will be part of.
 </p>
 <br />
+
+<p><img src="https://i.imgur.com/vjS3Xwk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The Picture above demonstrates how the Sys Admin has been creating different Teams in which Agents will be part of.
+</p>
+<br />
+
 <p>
 <img src="https://i.imgur.com/KM41PSK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
