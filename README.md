@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/JjT97eN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UT3KuGh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This Screen shows how the osTicket after being succefully installed, the Sys Admin only is able to log into thier Account and start working on Settings which will enable smooth use of the Ticketing System for all users.
@@ -33,7 +33,7 @@ This Screen shows how the osTicket after being succefully installed, the Sys Adm
 <br />
 
 <p>
-<img src="https://i.imgur.com/nmGUFvO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xrltSjb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This second screen is where the Sys Admin is creating brand new roles to be used in the Ticketing System.
@@ -41,7 +41,7 @@ This second screen is where the Sys Admin is creating brand new roles to be used
 <br />
 
 <p>
-<img src="https://i.imgur.com/vgxCsJr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ppAUSrO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This step consists of the creation and configuration of different Departments or Services of the IT Field within the Company.
@@ -49,43 +49,22 @@ This step consists of the creation and configuration of different Departments or
 <br />
 
 <p>
-<img src="https://i.imgur.com/EL4iul9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AuLsM2H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The Picture above demonstrates how the Sys Admin has been creating different Teams in which Agents will be part of.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/Xfj8aGz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JQsSupN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After implementing and creating both Departments and Teams, now it comes the moment of creating different Agents and assigning them to the Departments and Teams previously created.
 </p>
 <br />
-<img src="https://i.imgur.com/uZFMCBe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RQbXCjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now the Sys Admin is creating different Users, these users might be internal or external to the company. They will be using the Ticketing System via their Tickts.
 </p>
 <br />
-<img src="https://i.imgur.com/40b3F0A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Now the Sys Admin is creating different Users, these users might be internal or external to the company. They will be using the Ticketing System via their Tickts.
-</p>
-<br />
-<img src="https://i.imgur.com/T3BmMqC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Now the Sys Admin is creating different Users, these users might be internal or external to the company. They will be using the Ticketing System via their Tickts.
-</p>
-<br />
-</p>
-<br />
-<img src="https://i.imgur.com/T3BmMqC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Now the Sys Admin is creating different Users, these users might be internal or external to the company. They will be using the Ticketing System via their Tickts.
-</p>
-<br />
-
