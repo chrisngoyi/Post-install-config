@@ -41,7 +41,7 @@ This second screen is where the Sys Admin is creating brand new roles to be used
 <br />
 
 <p>
-<img src="https://i.imgur.com/yFCWiJe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QXZNfYT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This step consists of the creation and configuration of different Departments or Services of the IT Field within the Company.
