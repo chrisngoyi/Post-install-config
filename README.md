@@ -17,7 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Life-Cyrcle Configuration Objectives</h2>
 
-- The osTicket is working correctly, this part represents how the users are now able to submit their tickets. It also demonstrates how the Sys Admin manage everything while the other Agents can only get access to their only assigned tickets.
+- The osTicket is working correctly, this part represents how the users are now able to submit their tickets. It also demonstrates how the Sys Admin manages everything while the other Agents can only get access to their only assigned tickets.
 <h2>Configuration Steps</h2>
 
 <p>
