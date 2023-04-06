@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Life Cyrcle Examoles Configuration</h1>
+<h1>osTicket - Life Cyrcle Examples Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
@@ -15,13 +15,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Life-Cyrcle Configuration Objectives</h2>
 
-- Setting up all the features and tools to enable the smooth use of he Sytem
-- Creating all the necessary Departments and/or Services included in the IT Field
-- Creating all Agents and assigning them to appropiate Departments to assure the operability of the System 
-- Creating internal and extermal Users  that will be interacting in the Ticketing System
-
+- The osTicket is working correctly, this part represents how the users are now able to submit their tickets. It also demonstrates how the Sys Admin manage everything while the other Agents can only get access to their only assigned tickets.
 <h2>Configuration Steps</h2>
 
 <p>
