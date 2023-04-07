@@ -27,7 +27,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 This Screen shows how the osTicket after being succefully installed, the Sys Admin only is able to log into thier Account and start working on Settings which will enable smooth use of the Ticketing System for all users.
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/NJibnxz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -35,7 +34,6 @@ This Screen shows how the osTicket after being succefully installed, the Sys Adm
 This second screen is where the Sys Admin is creating brand new roles to be used in the Ticketing System.
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/QXZNfYT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -43,7 +41,6 @@ This second screen is where the Sys Admin is creating brand new roles to be used
 This step consists of the creation and configuration of different Departments or Services of the IT Field within the Company.
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/V4nN5T2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -51,7 +48,6 @@ This step consists of the creation and configuration of different Departments or
 The Picture above demonstrates how the Sys Admin has been creating different Teams in which Agents will be part of.
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/u6Ylzey.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -63,6 +59,6 @@ After implementing and creating both Departments and Teams, now it comes the mom
 <img src="https://i.imgur.com/33agmxK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The System Admnistrator is setting up the Service Level Agreements SLAs to determine the procedures on how to respond to tickets once they have been submitted.
+The System Admnistrator is setting up the Service Level Agreements SLAs to determine the procedures on how to respond to Tickets once they have been submitted.
 </p>
 <br />
