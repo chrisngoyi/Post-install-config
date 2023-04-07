@@ -63,6 +63,6 @@ After implementing and creating both Departments and Teams, now it comes the mom
 <img src="https://i.imgur.com/33agmxK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The System Admnistrator is setting up the Service Level Agreements SLAs to determine how long the procedures on how to respond to tickets once they have been submitted.
+The System Admnistrator is setting up the Service Level Agreements SLAs to determine the procedures on how to respond to tickets once they have been submitted.
 </p>
 <br />
