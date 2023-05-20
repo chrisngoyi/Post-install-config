@@ -49,7 +49,7 @@ The Picture above demonstrates how the Sys Admin has been creating different Tea
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/sL8tH0R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/sL8](https://i.imgur.com/IgA3ICw.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After implementing and creating both Departments and Teams, now it comes the moment of creating different New Agents and assigning them to the Departments and Teams previously created.
